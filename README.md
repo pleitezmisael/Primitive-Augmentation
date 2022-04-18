@@ -9,4 +9,6 @@ https://vr-experience-interactive-thesis-pleitez.glitch.me
 
 ** Imagem Model Tracker **
 https://ar-experience-interactive-thesis-pleitez.glitch.me
+
 ** Live Tracker Link **
+https://ar-live-model-tracker-interactive--thesis-pleitez.glitch.me
