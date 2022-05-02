@@ -6,8 +6,12 @@ My name is Misael Pleitez,  I am working on my degree project called Primitive A
 ** VRoom Link**
 https://vr-experience-interactive-thesis-pleitez.glitch.me
 
-** Imagem Model Tracker **
+** Image Model Tracker **
 https://ar-experience-interactive-thesis-pleitez.glitch.me
 
 ** Live Tracker Link **
-https://ar-live-model-tracker-interactive--thesis-pleitez.glitch.me
+https://ar-live-model-tracker--interactive--thesis-pleitez.glitch.me
+
+** Site Model Tracker Link **
+https://ar-Site-model-tracker--interactive--thesis-pleitez.glitch.me
+
