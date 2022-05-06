@@ -13,5 +13,6 @@ https://ar-experience-interactive-thesis-pleitez.glitch.me
 https://ar-live-model-tracker--interactive--thesis-pleitez.glitch.me
 
 ** Site Model Tracker Link **
-https://ar-Site-model-tracker--interactive--thesis-pleitez.glitch.me
+https://ar-site-model-tracker-interactive--thesis-pleitez.glitch.me
+
 
